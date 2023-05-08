@@ -6,3 +6,7 @@ while count < nomes.size do
    puts nomes[count]
    count +=1
 end
+
+end
+
+08/05
